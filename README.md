@@ -1,6 +1,12 @@
 # Codex 皮肤工坊
 
-我平时用 Codex 写代码，顺手做了一个给它换皮肤的小工具。做它不是为了再放一组背景图，而是因为有两件事挺影响使用：
+**原作与优化 / Original work and enhancements**
+
+原始应用由毕方团队同事开发；Lydia 负责后续功能优化和皮肤内容整理。原始开发者与优化贡献分别署名。
+
+The original application was developed by a BFTOOLS teammate. Lydia contributes feature enhancements and the skin collection; this page does not attribute original application development to Lydia.
+
+我平时用 Codex 写代码，在同事开发的皮肤工坊基础上做了功能优化，并整理与扩充了数百款皮肤。做它不是为了再放一组背景图，而是因为有两件事挺影响使用：
 
 - 点了“应用”，界面有时还是原样；
 - 皮肤一多，预览和 Codex 同时开着，内存会慢慢往上爬。
